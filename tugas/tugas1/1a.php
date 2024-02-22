@@ -1,17 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <?php
-    $satu="Topi";
-    $dua="Bundar";
+<?php
+$var=0;
+while ($var < 11 ){
+echo $var;
+echo "<br/>";
+$val =0;
 
-    echo "<i>"."<h2>"."<strong>"."\"".$satu." "."saya"." ".$dua.",";
-    print $dua." ".$satu." "."saya"."."."\""."</strong>"."</h2>"."</i>";
-    ?>
-</body>
-</html>
+$val = $val+1; 
+}
+
+?>

@@ -20,7 +20,7 @@
     .dua{
         float: left;
     }
-    .tiga{;
+    .tiga{
         background-color: orange;
         float:left;
     }
