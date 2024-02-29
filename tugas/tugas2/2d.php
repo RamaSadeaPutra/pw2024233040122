@@ -31,8 +31,8 @@
 
 </head>
 <body>
-
 <div class="awal">
+
 <?php
 
 for($i =1; $i <= 5; $i++){
